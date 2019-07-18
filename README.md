@@ -1,6 +1,7 @@
 # SocialLogin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+For demo click [here](https://imbichitra.github.io/SocialLogin/)
 
 ## Development server
 
